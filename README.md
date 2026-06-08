@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/andrebrumdev/andrebrumdev/blob/main/README-HEADER.png" alt="André Brum" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:1E3A8A&height=200&section=header&text=Andr%C3%A9%20Brum&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20%26%20DevOps&descSize=20&descAlignY=58" alt="André Brum" />
 </p>
 
 <p align="center">
@@ -53,8 +53,17 @@ No dia a dia, do componente em **React / React Native / TypeScript** ao **deploy
 ### 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=andrebrumdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrebrumdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrebrumdev&theme=tokyonight" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andrebrumdev&theme=tokyonight" alt="GitHub Stats" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andrebrumdev&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andrebrumdev&theme=tokyonight" alt="Most Commit Language" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andrebrumdev&theme=tokyonight&utcOffset=-3" alt="Productive Time" />
 </p>
 
 <p align="center">
