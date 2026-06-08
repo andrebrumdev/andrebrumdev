@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:1E3A8A&height=200&section=header&text=Andr%C3%A9%20Brum&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20%26%20DevOps&descSize=20&descAlignY=58" alt="André Brum" />
-</p>
+<h1 align="center">👋 Olá, eu sou o André Brum</h1>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
